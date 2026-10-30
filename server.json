@@ -2,13 +2,26 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.meet-align/align",
   "title": "Align",
-  "description": "Your team's meetings, decisions and tasks: ask what was decided, who owns what, what's due.",
-  "version": "1.0.0",
+  "description": "Ask what your team decided in meetings, get your standup, and update Jira/Linear-synced tasks.",
+  "version": "1.1.0",
   "websiteUrl": "https://meet-align.com/mcp",
   "icons": [
-    { "src": "https://meet-align.com/icons/icon-192.png", "mimeType": "image/png", "sizes": ["192x192"] }
+    {
+      "src": "https://meet-align.com/icons/icon-192.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "192x192"
+      ]
+    }
   ],
   "remotes": [
-    { "type": "streamable-http", "url": "https://api.meet-align.com/mcp" }
-  ]
+    {
+      "type": "streamable-http",
+      "url": "https://api.meet-align.com/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/amitrajputfff/align-mcp",
+    "source": "github"
+  }
 }
