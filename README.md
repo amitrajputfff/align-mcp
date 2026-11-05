@@ -2,6 +2,8 @@
 
 # Align MCP server
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/amitrajputfff-align-mcp-8nynj5?v=b71d396adcc2341ac84c7f8276a0ba40)](https://m8ven.ai/mcp/amitrajputfff-align-mcp-8nynj5?s=readme)
+
 Ask Claude, ChatGPT, Cursor or any MCP client about your team's meetings: what was decided, who owns what, what's due this week, and what you got done yesterday. Answers come with citations back to the meeting.
 
 [Align](https://meet-align.com) turns meetings into decisions and tickets synced with Jira and Linear. This is its hosted MCP server. There's nothing to install or run: connect to the URL and sign in with OAuth.
